@@ -84,11 +84,6 @@
    "fieldname": "published",
    "fieldtype": "Check",
    "label": "Published"
-  },
-  {
-   "fieldname": "get_issued_count",
-   "fieldtype": "Button",
-   "label": "Get Issued Count"
   }
  ],
  "has_web_view": 1,
